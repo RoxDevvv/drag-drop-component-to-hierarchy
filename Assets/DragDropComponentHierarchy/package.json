@@ -1,0 +1,22 @@
+{
+    "name": "com.roxdevvv.dragdropcomponenthierarchy",
+    "version": "0.0.1",
+    "displayName": "Unity Drag Drop Component to Hierarchy",
+    "description": "This is a Package for Unity Drag Drop Component to Hierarchy.",
+    "unity": "2022.3",
+    "dependencies": {},
+    "keywords": [
+        "unity",
+        "drag",
+        "drop",
+        "component",
+        "hierarchy",
+        "unity editor",
+        "unity editor drag drop component to hierarchy"
+    ],
+    "author": {
+        "name": "Ahmed Amine Laaraf",
+        "email": "aminelaaraf@gmail.com",
+        "url": "https://github.com/RoxDevvv/Unity-Blender-Control-Style"
+    }
+}
